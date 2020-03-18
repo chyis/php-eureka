@@ -4,7 +4,6 @@
     "keywords": [
         "php",
         "eureka",
-        "spring cloud",
         "discovery server"
     ],
     "license": "MIT",
