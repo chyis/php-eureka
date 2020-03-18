@@ -1,5 +1,5 @@
 {
-    "name": "chyis/php-eureka",
+    "name": "chyis/laravel-eureka",
     "description": "A PHP client for Spring Cloud Eureka discovery server.",
     "keywords": [
         "php",
