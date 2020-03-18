@@ -1,5 +1,5 @@
 {
-    "name": "piwvh/php-eureka",
+    "name": "chyis/php-eureka",
     "description": "A PHP client for Spring Cloud Eureka discovery server.",
     "keywords": [
         "php",
@@ -7,23 +7,21 @@
         "spring cloud",
         "discovery server"
     ],
-    "homepage": "http://hamid.work",
     "license": "MIT",
     "authors": [
         {
-            "name": "Hamid Mohayeji",
-            "email": "h.mohayeji@gmail.com",
-            "role": "Developer"
+            "name": "JerryLi",
+            "email": "dream_imperator@163.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
         "psr-4": {
-            "Eureka\\": "src/"
+            "Chyis\\eureka\\": "src/"
         }
     }
 }
